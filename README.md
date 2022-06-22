@@ -1,4 +1,4 @@
-# Cannon Game 💣
+![banner](Cannon_Game_💣.png)
 
 A basic Assembly cannon game.
 
