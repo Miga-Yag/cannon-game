@@ -2,8 +2,8 @@
 
 A basic Assembly cannon game.
 
-![Mozilla Add-on](https://img.shields.io/amo/stars/ddd)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Miga-Yag/cannon-game) ![GitHub followers](https://img.shields.io/github/followers/Miga-Yag?style=social)
+***
 ## Laboratory experience unit
 Computer organization and threshold language
 
