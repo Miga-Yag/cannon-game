@@ -12,5 +12,4 @@ TASM compiler
 
 ## Instrations
 1. Download and Install 
-2. 
-[DOSBox](https://www.dosbox.com/download.php?main=1)
+![DOSBox](https://www.dosbox.com/download.php?main=1)
