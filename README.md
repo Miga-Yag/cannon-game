@@ -16,4 +16,4 @@ TASM compiler
 2. Open DOSBox
 3. Run the following commands in DOSBox. 
  First: `mount x: {folder location}`\ Second: `x:`\ Third: `ts`\
- ![Example](/assets/example.png)
+ ![Example](/assets/example1.png)
