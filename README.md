@@ -11,7 +11,5 @@ Computer organization and threshold language
 TASM compiler
 
 ## Instrations
-1. Download and Install [DOSBox](https://www.dosbox.com/download.php?main=1)\
-![DOSBox Download](/assets/DOSBox.png)
-<br/>
-2.
+1. Download and Install [DOSBox](https://www.dosbox.com/download.php?main=1)\![DOSBox Download](/assets/DOSBox.png)
+2. Somthing
