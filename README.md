@@ -13,4 +13,7 @@ TASM compiler
 ## Instrations
 1. Download and Install [DOSBox](https://www.dosbox.com/download.php?main=1)\
  ![DOSBox Download](/assets/DOSBox.png)
-2. Somthing
+2. Open DOSBox
+3. Type the following command in DOSBox, `mount x: {folder location}`\
+ For example: 
+ ![Example](/assets/)
