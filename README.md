@@ -18,3 +18,4 @@ TASM compiler
  First: `mount x: {folder location}`\ Second: `x:`\ Third: `ts`\
  ![Example](/assets/example1.png)
 4. After running the commands go to the upper navigation bar by pressing the **ALT** button, choose the option **File**, choose the load option and select the file `cannon-game`. After that Run the file.
+ ![gif](/assets/exmpGif.gif)
